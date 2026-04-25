@@ -10,7 +10,7 @@ This project is part of the OIBSIP internship program and demonstrates SQL skill
 
 ## Objectives
 
-- *Dataset Input:* Import the provided retail dataset into the OIBSIP_data-analytics_1 database using MySQL Workbench for analysis.  
+- *Dataset Input:* Import the provided retail dataset into the `retail_sales` database using MySQL Workbench for analysis.  
 - *Database Setup:* Create and populate tables with retail sales records.  
 - *Data Cleaning:* Handle missing values, duplicates, and ensure data consistency.  
 - *Exploratory Data Analysis (EDA):* Run SQL queries to understand customer demographics, product categories, and monthly sales trends.  
