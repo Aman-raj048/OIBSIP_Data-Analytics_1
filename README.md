@@ -3,7 +3,6 @@
 ## Project Overview
 
 **Project Title**: Retail Sales Analysis  
-**Level**: Beginner  
 **Database**: `retail_sales`
 
 This project is part of the OIBSIP internship program and demonstrates SQL skills applied to retail sales data. The goal is to import, clean, and analyze transactional data to uncover customer behavior, product performance, and sales trends. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering business-driven questions through SQL queries. It is designed for learners starting their journey in data analytics and aiming to build a solid foundation in SQL with practical insights.
