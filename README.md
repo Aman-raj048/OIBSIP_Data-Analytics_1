@@ -1,4 +1,7 @@
 # OIBSIP_Data-Analytics_1
+OIBSIP internship project for data analytics including queries, outputs, and visualisations documenting retail sales analysis with professional report submission.
+
+# Retail Sales Analysis – OIBSIP Data Analytics Project
 
 ## Project Overview
 
